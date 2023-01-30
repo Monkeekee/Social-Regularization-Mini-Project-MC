@@ -1,6 +1,7 @@
 # Social-Regularization-Mini-Project-MC
  Recommender Systems with Social Regularization Improving.
-+ Chaimae ERREBAI
+ Social graph study project by:
++ Chaimae ERREBIAI
 + Matthieu AKHAVAN
 ## Libraries
 NetworkX, Pandas, Matplotlib
