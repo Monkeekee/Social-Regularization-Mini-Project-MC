@@ -1,5 +1,7 @@
 # Social-Regularization-Mini-Project-MC
- Recommender Systems with Social Regularization Improving
+ Recommender Systems with Social Regularization Improving.
++ Chaimae ERREBAI
++ Matthieu AKHAVAN
 ## Libraries
 NetworkX, Pandas, Matplotlib
 ## Datasets Used
